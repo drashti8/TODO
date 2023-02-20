@@ -1,0 +1,23 @@
+.main-container {
+  height: 100vh;
+  background: #a8cef5;
+}
+
+.input-container {
+  height: 30%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background: #a8cef5;
+  /* background: url(download.jpeg); */
+  background-repeat: repeat-x;
+
+  background-origin: content-box;
+  background-size: cover;
+  color: white;
+}
+
+.card-list {
+  display: flex;
+}
